@@ -23,7 +23,7 @@ Ce chatbot permet de poser des questions sur des documents PDF. Il extrait le te
 
 1. Exécuter le programme en utilisant la commande suivante :
    ````
-   streamlit run main.py
+   streamlit run app.py
    ````
 2. Ouvrir l'application dans le navigateur à l'adresse indiquée dans la console.
 3. Cliquer sur le bouton "Uploader un fichier PDF" pour sélectionner un fichier PDF à traiter.
@@ -42,3 +42,7 @@ Les contributions à ce programme sont les bienvenues. Pour signaler un problèm
 ## Remarque
 
 Ce programme utilise une version spécifique du modèle de langage GPT-3.5 de OpenAI. Pour plus d'informations sur les limitations et les conditions d'utilisation du modèle, veuillez vous référer à la documentation officielle de OpenAI.
+
+## Licence
+
+Ce programme est sous licence MIT. Veuillez consulter le fichier LICENSE pour plus de détails.
