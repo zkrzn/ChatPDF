@@ -29,6 +29,10 @@ Ce chatbot permet de poser des questions sur des documents PDF. Il extrait le te
 3. Cliquer sur le bouton "Uploader un fichier PDF" pour sélectionner un fichier PDF à traiter.
 4. Poser une question dans le champ de texte et cliquer sur le bouton "Poser la question" pour obtenir une réponse générée par le modèle de conversation.
 
+## Interface
+
+![Alt text](interface.png "ChatPDF")
+
 ## Exigences du système
 
 - Python 3.9 ou version supérieure
