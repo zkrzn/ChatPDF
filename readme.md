@@ -31,7 +31,7 @@ Ce chatbot permet de poser des questions sur des documents PDF. Il extrait le te
 
 ## Exigences du système
 
-- Python 3.7 ou version supérieure
+- Python 3.9 ou version supérieure
 - Connexion Internet pour télécharger les dépendances
 
 ## Contributions
